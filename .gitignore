@@ -1,0 +1,10 @@
+# Common:
+.idea
+.vscode
+project.sublime-workspace
+update
+update-data
+
+# env
+.configuration.toml
+
